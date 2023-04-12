@@ -5,5 +5,5 @@ def square(num):
 def cube(num):
     return num**3
 if __name__ == "__main__": #to run this file directly using python test.py
-    print(addone(4))
+    print(addone(5))
     
